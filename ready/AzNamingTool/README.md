@@ -22,7 +22,7 @@ Stay up to date on new features and announcements here:
 
 ## Overview
 
-The Naming Tool was developed using a naming pattern based on [Microsoft's best practices](/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging). Once an administrator has defined the organizational components, users can use the tool to generate a name for the desired Azure resource.
+The Naming Tool was developed using a naming pattern based on [Microsoft's best practices](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/main/docs/ready/azure-best-practices/naming-and-tagging.md). Once an administrator has defined the organizational components, users can use the tool to generate a name for the desired Azure resource.
 
 **Want a deep dive into the tool?**
 
